@@ -1,0 +1,35 @@
+.root{
+	-fx-font-size: 16px;
+	-fx-font-family: "DengXian";
+	-fx-base: rgb(127,127,127);
+	-fx-background: rgb(127,127,127);
+}
+
+.rectangle_back{
+	-fx-fill: rgb(0,0,0,0);
+	-fx-stroke-width: 0px;
+}
+
+.rectangle_front{
+	-fx-fill: rgb(192,192,192);
+	-fx-stroke-width: 0px;
+}
+
+.button{
+	-fx-base: rgb(192,192,192);
+	-fx-min-width: 80px;
+}
+
+.slider{
+	-fx-base: rgb(192,192,192);
+	-fx-min-width: 400px;
+	-fx-max-width: 400px;
+	-fx-show-tick-labels: true;
+	-fx-show-tick-marks: true;
+}
+
+.label{
+}
+
+.textfield{
+}
